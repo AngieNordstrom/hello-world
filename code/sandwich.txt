@@ -1,0 +1,10 @@
+estimate: 30 lines 
+
+Define bread slice as slice one
+define other bread slice as slice two
+pick up knife
+dip knife in peanut butter
+remove knife from peanut butter
+place knife with peanut butter on left edge slice one
+drag knife to the right one quarter of the way across slice one
+repeat steps 
