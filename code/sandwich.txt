@@ -4,7 +4,18 @@ Define bread slice as slice one
 define other bread slice as slice two
 pick up knife
 dip knife in peanut butter
+scrape out peanut butter
 remove knife from peanut butter
 place knife with peanut butter on left edge slice one
 drag knife to the right one quarter of the way across slice one
-repeat steps 
+repeat steps 6-8
+place knife edge on where the peanut butter stops
+repeat step 10
+repeat steps 11-13 2 times
+pick up slice 2
+replace peanut butter with jelly in step 6-14
+repeat step 6-14
+pick up slice 1 peanut butter side up
+pick up slide 2 jelly side up
+put slice 1 and slice 2 together condiment sides together
+enjoy!
